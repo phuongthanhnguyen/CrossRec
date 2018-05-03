@@ -2,7 +2,7 @@ This repository contains the source code implementation of CrossRec, the dataset
 
 <b>"A collaborative-filtering approach to provide OSS developers with third-party library recommendations"</b>
 
-submitted to the 15th International Conference on Mining Software Repositories (MSR 2018)
+submitted to the 12th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2018)
 
 CrossRec is a framework that exploits cross projects relationships in open source software repositories to build a recommender system. It aims at supporting software developers who have already included some libraries in the new projects being developed, and expect to get recommendations on which additional libraries should be further incorporated.
 
